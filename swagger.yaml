@@ -1,4 +1,4 @@
-swagger: '2.0' #version of Swagger
+swagger: '3.0.0' #version of Swagger
 info: # High Level information of API
   description: API-ON-DEMAND Demo #Give the description of API 
   version: 1.0.0 #API version
